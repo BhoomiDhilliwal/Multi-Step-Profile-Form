@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# React Native
+.expo/
+.expo-shared/
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+android/app/debug.keystore
+*.apk
+*.aab
+*.so
+
+# iOS
+ios/build/
+ios/Pods/
+
+# Metro
+.metro-health-check*
+
